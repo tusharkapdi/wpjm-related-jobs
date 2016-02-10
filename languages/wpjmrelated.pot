@@ -1,0 +1,108 @@
+# Copyright (C) 2015 WP Job Manager Related Jobs
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Job Manager Related Jobs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-04 16:01+0100\n"
+"PO-Revision-Date: 2016-02-04 15:48+0530\n"
+"Last-Translator: \n"
+"Language-Team: Tushar Kapdi <tusharkapdi@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+
+#: wp-job-manager-related-jobs.php:0
+msgid "WP Job Manager Related Jobs"
+msgstr "WP Job Manager Related Jobs"
+
+#: wp-job-manager-related-jobs.php:119
+msgid "Settings"
+msgstr "Settings"
+
+#: wp-job-manager-related-jobs.php:135
+#: includes/options-setting.php:90
+msgid "Donate"
+msgstr "Donate"
+
+#: includes/shortcodes.php:74
+@: includes/related-jobs.php:56
+msgid "Related Jobs"
+msgstr "Related Jobs"
+
+#: includes/options-setting.php:43
+msgid "WP Job Manager Related Job Setting"
+msgstr "WP Job Manager Related Job Setting"
+
+#: includes/options-setting.php:52
+msgid "Show in job detail page?"
+msgstr "Show in job detail page?"
+
+#: includes/options-setting.php:54
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/options-setting.php:55
+msgid "No"
+msgstr "No"
+
+#: includes/options-setting.php:60
+msgid "Position"
+msgstr "Position"
+
+#: includes/options-setting.php:62
+msgid "After Content"
+msgstr "Job Types"
+
+#: includes/options-setting.php:63
+msgid "Before Content"
+msgstr "Before Content"
+
+#: includes/options-setting.php:67
+msgid "Description Character Limit"
+msgstr "Description Character Limit"
+
+#: includes/options-setting.php:71
+msgid "Number of Jobs"
+msgstr "Number of Jobs"
+
+#: includes/options-setting.php:71
+msgid "Number of Columns"
+msgstr "Number of Columns"
+
+#: includes/options-setting.php:96
+msgid "Rate Us"
+msgstr "Rate Us"
+
+#: includes/options-setting.php:98
+msgid "Rate Us On Wordpress"
+msgstr "Rate Us On Wordpress"
+
+#: includes/options-setting.php:102
+msgid "Customize You Job Portal"
+msgstr "Customize You Job Portal"
+
+#: includes/options-setting.php:111
+msgid "Customize features"
+msgstr "Customize features"
+
+#: includes/options-setting.php:113
+msgid "Addon configuration and customization"
+msgstr "Addon configuration and customization"
+
+#: includes/options-setting.php:114
+msgid "Customize job page layout"
+msgstr "Customize job page layout"
+
+#: includes/options-setting.php:115
+msgid "Search Customization"
+msgstr "Search Customization"
+
+#: includes/options-setting.php:116
+msgid "Customize job fields"
+msgstr "Customize job fields"
+
+#: includes/options-setting.php:117
+msgid "More.."
+msgstr "More.."
